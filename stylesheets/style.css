@@ -1,0 +1,14 @@
+body {
+  background-color: grey;
+
+}
+header{
+  max-width: 960px;
+  
+}
+header img {
+  margin: 20px 20px 20px 20px;
+}
+header li{
+  background-color: pink;
+}
